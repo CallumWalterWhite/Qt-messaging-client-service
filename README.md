@@ -1,6 +1,6 @@
-# c-qt-messaging-client-service
+# Qt Messaging client service
 
-A c++ messaging client and service using mqtt messaging protocol 
+A c++ messaging client and service using mqtt messaging protocol. Using QT for UI on client
 
 Please run the update.sh script to install all the packages
 
